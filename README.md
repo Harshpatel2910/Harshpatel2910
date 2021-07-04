@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Harsh Patel
 - 👀 I’m interested in web development,machine learning,Android development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 contact me hppatel530@gmail.com
 
 <!---
